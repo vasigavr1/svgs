@@ -1,3 +1,5 @@
-*
-!*.svg
+*.pdf
+!.svg
+
+
 !.gitignore
