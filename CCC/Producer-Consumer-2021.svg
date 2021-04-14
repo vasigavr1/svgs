@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="313.49258mm"
-   height="76.201302mm"
-   viewBox="0 0 1110.8005 270.00455"
+   width="2356.7732mm"
+   height="2298.6252mm"
+   viewBox="0 0 8350.7712 8144.7333"
    id="svg6682"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -12693,9 +12693,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="899.5499"
-     inkscape:cy="-54.151497"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="6826.8169"
+     inkscape:cy="6056.1397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12726,58 +12726,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-11065.564,-362.25481)">
-    <g
-       id="g12842">
-      <g
-         transform="translate(12911.419,-954.26273)"
-         id="g12806">
-        <rect
-           ry="16.594547"
-           rx="16.594547"
-           y="1360.8698"
-           x="-1241.4166"
-           height="45.934082"
-           width="216.85925"
-           id="rect12800"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           id="text12804"
-           y="1397.4513"
-           x="-1173.8966"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:34.40517426px;line-height:1.25"
-             y="1397.4513"
-             x="-1173.8966"
-             id="tspan12802"
-             sodipodi:role="line">P1</tspan></text>
-      </g>
-      <g
-         transform="translate(13197.682,-954.26273)"
-         id="g12822">
-        <rect
-           ry="16.594547"
-           rx="16.594547"
-           y="1360.8698"
-           x="-1241.4166"
-           height="45.934082"
-           width="216.85925"
-           id="rect12816"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           id="text12820"
-           y="1397.4513"
-           x="-1173.8966"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:34.40517426px;line-height:1.25"
-             y="1397.4513"
-             x="-1173.8966"
-             id="tspan12818"
-             sodipodi:role="line">P1</tspan></text>
-      </g>
-    </g>
+     transform="translate(-4260.8575,1739.1335)">
     <g
        transform="translate(13614.706,-24.603249)"
        id="g13219">
@@ -33152,39 +33101,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       x="11107.461"
+       x="11104.917"
        y="505.56641"
        id="text12700"><tspan
          sodipodi:role="line"
          id="tspan12698"
-         x="11107.461"
+         x="11104.917"
          y="505.56641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">Write(x = 1)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">St1: St x = 1</tspan></text>
     <text
        id="text12704"
        y="558.06641"
-       x="11091.013"
+       x="11104.797"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
          y="558.06641"
-         x="11091.013"
+         x="11104.797"
          id="tspan12702"
-         sodipodi:role="line">Release(y = 1)</tspan></text>
+         sodipodi:role="line">Ld1: Ld r1 = y</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       x="11332.689"
+       x="11392.08"
        y="504.84644"
        id="text12710"><tspan
          sodipodi:role="line"
          id="tspan12706"
-         x="11332.689"
+         x="11392.08"
          y="504.84644"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">while (Acquire(y) != 1) </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">St2: St y =1</tspan><tspan
          id="tspan12708"
          sodipodi:role="line"
-         x="11332.689"
+         x="11392.08"
          y="551.72144"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006" /></text>
     <text
@@ -33197,80 +33146,72 @@
          id="tspan12712"
          x="11062.414"
          y="388.40161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749994">Initially x =0, y = 0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749994">Initially x = 0, y = 0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       x="11415.51"
+       x="11391.96"
        y="558.81641"
        id="text12718"><tspan
          sodipodi:role="line"
          id="tspan12716"
-         x="11415.51"
+         x="11391.96"
          y="558.81641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">Read(x)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">Ld1: Ld r1 = x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11133.772"
+       y="443.18857"
+       id="text12812"><tspan
+         sodipodi:role="line"
+         id="tspan12810"
+         x="11133.772"
+         y="443.18857"
+         style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
     <g
-       id="g12832">
-      <g
-         id="g12814"
-         transform="translate(12307.669,-954.26273)">
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
-           id="rect12808"
-           width="216.85925"
-           height="45.934082"
-           x="-1241.4166"
-           y="1360.8698"
-           rx="16.594547"
-           ry="16.594547" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-1173.8966"
-           y="1397.4513"
-           id="text12812"><tspan
-             sodipodi:role="line"
-             id="tspan12810"
-             x="-1173.8966"
-             y="1397.4513"
-             style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
-      </g>
-      <g
-         id="g12726"
-         transform="translate(12593.932,-954.26273)">
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
-           id="rect12720"
-           width="216.85925"
-           height="45.934082"
-           x="-1241.4166"
-           y="1360.8698"
-           rx="16.594547"
-           ry="16.594547" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-1173.8966"
-           y="1397.4513"
-           id="text12724"><tspan
-             sodipodi:role="line"
-             id="tspan12722"
-             x="-1173.8966"
-             y="1397.4513"
-             style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
-      </g>
+       id="g86314">
+      <rect
+         ry="16.594547"
+         rx="16.594547"
+         y="406.60703"
+         x="11066.252"
+         height="45.934082"
+         width="216.85925"
+         id="rect12808"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="16.594547"
+         rx="16.594547"
+         y="406.60703"
+         x="11352.516"
+         height="45.934082"
+         width="216.85925"
+         id="rect12720"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11420.035"
+       y="443.18857"
+       id="text12724"><tspan
+         sodipodi:role="line"
+         id="tspan12722"
+         x="11420.035"
+         y="443.18857"
+         style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
     <text
        id="text12730"
        y="439.04156"
-       x="11129.234"
+       x="11128.744"
        style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988"
          y="439.04156"
-         x="11129.234"
+         x="11128.744"
          id="tspan12728"
-         sodipodi:role="line">T1 (RC)</tspan></text>
+         sodipodi:role="line">T1 (SC)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
@@ -33284,113 +33225,441 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">T2 (TSO)</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#61665e;stroke-width:1.10283363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.3085009, 1.10283363;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 11621.808,362.25481 V 621.68902"
+       d="m 11593.683,362.25481 0,300.86624"
        id="path12744"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
-       id="text12748"
-       y="504.69641"
-       x="11709.657"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
-         y="504.69641"
-         x="11709.657"
-         id="tspan12746"
-         sodipodi:role="line">Store(x = 1)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       x="11694.762"
-       y="558.06641"
-       id="text12752"><tspan
-         sodipodi:role="line"
-         id="tspan12750"
-         x="11694.762"
-         y="558.06641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">Release(y = 1)</tspan></text>
-    <text
-       id="text12758"
-       y="504.84644"
-       x="11952.415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
-         y="504.84644"
-         x="11952.415"
-         id="tspan12754"
-         sodipodi:role="line">while (Load(y) != 1)</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
-         y="551.72144"
-         x="11952.415"
-         sodipodi:role="line"
-         id="tspan12756" /></text>
-    <text
-       id="text12762"
-       y="388.40161"
-       x="11666.164"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749994"
-         y="388.40161"
-         x="11666.164"
-         id="tspan12760"
-         sodipodi:role="line">Initially x =0, y = 0</tspan></text>
-    <text
-       id="text12766"
-       y="558.81641"
-       x="12020.445"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
-         y="558.81641"
-         x="12020.445"
-         id="tspan12764"
-         sodipodi:role="line">Load(x)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
-       x="11732.984"
-       y="439.04156"
-       id="text12778"><tspan
-         sodipodi:role="line"
-         id="tspan12776"
-         x="11732.984"
-         y="439.04156"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">T1 (RC)</tspan></text>
-    <text
-       id="text12790"
-       y="439.04156"
-       x="12008.397"
-       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988"
-         y="439.04156"
-         x="12008.397"
-         id="tspan12788"
-         sodipodi:role="line">T2 (TSO)</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
        x="11301.876"
-       y="627.30939"
+       y="657.30939"
        id="text12794"><tspan
          sodipodi:role="line"
          id="tspan12792"
          x="11301.876"
-         y="627.30939"
+         y="657.30939"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">a) </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
-       x="11905.401"
-       y="628.43439"
+       x="11854.776"
+       y="658.43439"
        id="text12798"><tspan
          sodipodi:role="line"
          id="tspan12796"
-         x="11905.401"
-         y="628.43439"
+         x="11854.776"
+         y="658.43439"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">b) </tspan></text>
+    <g
+       transform="translate(-352.29532,-944.19473)"
+       id="g12842-5">
+      <g
+         transform="translate(12911.419,-954.26273)"
+         id="g12806-2">
+        <rect
+           ry="16.594547"
+           rx="16.594547"
+           y="1360.8698"
+           x="-1241.4166"
+           height="45.934082"
+           width="216.85925"
+           id="rect12800-9"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text12804-0"
+           y="1397.4513"
+           x="-1173.8966"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:34.40517426px;line-height:1.25"
+             y="1397.4513"
+             x="-1173.8966"
+             id="tspan12802-2"
+             sodipodi:role="line">P1</tspan></text>
+      </g>
+      <g
+         transform="translate(13197.682,-954.26273)"
+         id="g12822-8">
+        <rect
+           ry="16.594547"
+           rx="16.594547"
+           y="1360.8698"
+           x="-1241.4166"
+           height="45.934082"
+           width="216.85925"
+           id="rect12816-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text12820-8"
+           y="1397.4513"
+           x="-1173.8966"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:34.40517426px;line-height:1.25"
+             y="1397.4513"
+             x="-1173.8966"
+             id="tspan12818-0"
+             sodipodi:role="line">P1</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       x="10755.166"
+       y="-438.62833"
+       id="text12700-4"><tspan
+         sodipodi:role="line"
+         id="tspan12698-0"
+         x="10755.166"
+         y="-438.62833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012">St1: St Write(x = 1)</tspan></text>
+    <text
+       id="text12704-9"
+       y="-386.12833"
+       x="10738.718"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012"
+         y="-386.12833"
+         x="10738.718"
+         id="tspan12702-1"
+         sodipodi:role="line">Release(y = 1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       x="10980.395"
+       y="-439.3483"
+       id="text12710-9"><tspan
+         sodipodi:role="line"
+         id="tspan12706-6"
+         x="10980.395"
+         y="-439.3483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012">while (Acquire(y) != 1) </tspan><tspan
+         id="tspan12708-2"
+         sodipodi:role="line"
+         x="10980.395"
+         y="-392.4733"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="10710.119"
+       y="-555.79315"
+       id="text12714-5"><tspan
+         sodipodi:role="line"
+         id="tspan12712-4"
+         x="10710.119"
+         y="-555.79315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.9375">Initially x =0, y = 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       x="11063.215"
+       y="-385.37833"
+       id="text12718-4"><tspan
+         sodipodi:role="line"
+         id="tspan12716-9"
+         x="11063.215"
+         y="-385.37833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012">Read(x)</tspan></text>
+    <g
+       transform="translate(-352.29532,-944.19473)"
+       id="g12832-9">
+      <g
+         id="g12814-3"
+         transform="translate(12307.669,-954.26273)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
+           id="rect12808-6"
+           width="216.85925"
+           height="45.934082"
+           x="-1241.4166"
+           y="1360.8698"
+           rx="16.594547"
+           ry="16.594547" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1173.8966"
+           y="1397.4513"
+           id="text12812-0"><tspan
+             sodipodi:role="line"
+             id="tspan12810-5"
+             x="-1173.8966"
+             y="1397.4513"
+             style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
+      </g>
+      <g
+         id="g12726-0"
+         transform="translate(12593.932,-954.26273)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
+           id="rect12720-2"
+           width="216.85925"
+           height="45.934082"
+           x="-1241.4166"
+           y="1360.8698"
+           rx="16.594547"
+           ry="16.594547" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1173.8966"
+           y="1397.4513"
+           id="text12724-9"><tspan
+             sodipodi:role="line"
+             id="tspan12722-4"
+             x="-1173.8966"
+             y="1397.4513"
+             style="font-size:34.40517426px;line-height:1.25">P1</tspan></text>
+      </g>
+    </g>
+    <text
+       id="text12730-3"
+       y="-505.15323"
+       x="10776.939"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988"
+         y="-505.15323"
+         x="10776.939"
+         id="tspan12728-5"
+         sodipodi:role="line">T1 (SC)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       x="11052.353"
+       y="-505.15323"
+       id="text12742-1"><tspan
+         sodipodi:role="line"
+         id="tspan12740-7"
+         x="11052.353"
+         y="-505.15323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">T2 (TSO)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#61665e;stroke-width:1.10283363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.30850089, 1.10283363;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 11269.513,-581.93993 v 259.4342"
+       id="path12744-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text12748-3"
+       y="-439.49832"
+       x="11357.362"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012"
+         y="-439.49832"
+         x="11357.362"
+         id="tspan12746-1"
+         sodipodi:role="line">Store(x = 1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       x="11342.467"
+       y="-386.12833"
+       id="text12752-4"><tspan
+         sodipodi:role="line"
+         id="tspan12750-6"
+         x="11342.467"
+         y="-386.12833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012">Release(y = 1)</tspan></text>
+    <text
+       id="text12758-9"
+       y="-439.3483"
+       x="11600.12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012"
+         y="-439.3483"
+         x="11600.12"
+         id="tspan12754-4"
+         sodipodi:role="line">while (Load(y) != 1)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012"
+         y="-392.4733"
+         x="11600.12"
+         sodipodi:role="line"
+         id="tspan12756-2" /></text>
+    <text
+       id="text12762-2"
+       y="-555.79315"
+       x="11313.869"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.9375"
+         y="-555.79315"
+         x="11313.869"
+         id="tspan12760-6"
+         sodipodi:role="line">Initially x =0, y = 0</tspan></text>
+    <text
+       id="text12766-4"
+       y="-385.37833"
+       x="11668.15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000381px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750012"
+         y="-385.37833"
+         x="11668.15"
+         id="tspan12764-1"
+         sodipodi:role="line">Load(x)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       x="11380.689"
+       y="-505.15323"
+       id="text12778-2"><tspan
+         sodipodi:role="line"
+         id="tspan12776-8"
+         x="11380.689"
+         y="-505.15323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">T1 (RC)</tspan></text>
+    <text
+       id="text12790-8"
+       y="-505.15323"
+       x="11656.103"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988"
+         y="-505.15323"
+         x="11656.103"
+         id="tspan12788-9"
+         sodipodi:role="line">T2 (TSO)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       x="10949.581"
+       y="-316.88541"
+       id="text12794-2"><tspan
+         sodipodi:role="line"
+         id="tspan12792-8"
+         x="10949.581"
+         y="-316.88541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">a) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       x="11553.106"
+       y="-315.76028"
+       id="text12798-8"><tspan
+         sodipodi:role="line"
+         id="tspan12796-8"
+         x="11553.106"
+         y="-315.76028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">b) </tspan></text>
+    <text
+       id="text86272"
+       y="505.56641"
+       x="11658.042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
+         y="505.56641"
+         x="11658.042"
+         id="tspan86270"
+         sodipodi:role="line">St1: St x = 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
+       x="11657.922"
+       y="558.06641"
+       id="text86276"><tspan
+         sodipodi:role="line"
+         id="tspan86274"
+         x="11657.922"
+         y="558.06641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006">Ld1: Ld r1 = y</tspan></text>
+    <text
+       id="text86282"
+       y="504.84644"
+       x="11945.205"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
+         y="504.84644"
+         x="11945.205"
+         id="tspan86278"
+         sodipodi:role="line">St2: St y =1</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
+         y="551.72144"
+         x="11945.205"
+         sodipodi:role="line"
+         id="tspan86280" /></text>
+    <text
+       id="text86286"
+       y="388.40161"
+       x="11615.539"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999237px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749994"
+         y="388.40161"
+         x="11615.539"
+         id="tspan86284"
+         sodipodi:role="line">Initially x = 0, y = 0</tspan></text>
+    <text
+       id="text86290"
+       y="609.44141"
+       x="11945.085"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
+         y="609.44141"
+         x="11945.085"
+         id="tspan86288"
+         sodipodi:role="line">Ld1: Ld r1 = x</tspan></text>
+    <g
+       id="g86310">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
+         id="rect86292"
+         width="216.85925"
+         height="45.934082"
+         x="11619.377"
+         y="406.60703"
+         rx="16.594547"
+         ry="16.594547" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37620687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-dasharray:none;stroke-opacity:1"
+         id="rect86294"
+         width="216.85925"
+         height="45.934082"
+         x="11905.641"
+         y="406.60703"
+         rx="16.594547"
+         ry="16.594547" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       x="11681.869"
+       y="439.04156"
+       id="text86298"><tspan
+         sodipodi:role="line"
+         id="tspan86296"
+         x="11681.869"
+         y="439.04156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988">T1 (SC)</tspan></text>
+    <text
+       id="text86302"
+       y="439.04156"
+       x="11957.772"
+       style="font-style:normal;font-weight:normal;font-size:34.99999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999619px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93749988"
+         y="439.04156"
+         x="11957.772"
+         id="tspan86300"
+         sodipodi:role="line">T2 (TSO)</tspan></text>
+    <text
+       id="text86306"
+       y="558.06641"
+       x="11945.085"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.49999619px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;font-family:Rajdhani;-inkscape-font-specification:Rajdhani;stroke-width:0.93750006"
+         y="558.06641"
+         x="11945.085"
+         id="tspan86304"
+         sodipodi:role="line">FENCE</tspan></text>
   </g>
 </svg>
